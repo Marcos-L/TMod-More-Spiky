@@ -1,0 +1,55 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	IchorBall: {
+		DisplayName: Spiky Ichor Ball
+		Tooltip: Decreases targets' defense.
+	}
+
+	CrystalBall: {
+		DisplayName: Spiky Crystal Ball
+		Tooltip: Emmits crystal shards on hit.
+	}
+
+	CursedBall: {
+		DisplayName: Spiky Cursed Ball
+		Tooltip: Enflames targets in cursed flames.
+	}
+
+	BeetleBall: {
+		DisplayName: Spiky Beetle Ball
+		Tooltip: Spawns Beetles on hit.
+	}
+
+	VenomBall: {
+		DisplayName: Spiky Venom Ball
+		Tooltip: Inflicts targets with Acid Venom.
+	}
+
+	BouncyBall: {
+		DisplayName: Bouncy Spiky Ball
+		Tooltip: Bounces targets all around.
+	}
+
+	StickyBall: {
+		DisplayName: Sticky Spiky Ball
+		Tooltip: Makes targets sticky.
+	}
+
+	PoisonedBall: {
+		DisplayName: Poisoned Spiky Ball
+		Tooltip: Poisons targets
+	}
+}
+
+Projectiles: {
+	IchorBallProjectile.DisplayName: Ichor Ball Projectile
+	CrystalBallProjectile.DisplayName: Crystal Ball Projectile
+	CursedBallProjectile.DisplayName: Cursed Ball Projectile
+	BeetleBallProjectile.DisplayName: Beetle Ball Projectile
+	BeetleHomingProjectile.DisplayName: Beetle Homing Projectile
+	VenomBallProjectile.DisplayName: Venom Ball Projectile
+	BouncyBallProjectile.DisplayName: Bouncy Ball Projectile
+	StickyBallProjectile.DisplayName: Sticky Ball Projectile
+	PoisonedBallProjectile.DisplayName: Poisoned Ball Projectile
+}

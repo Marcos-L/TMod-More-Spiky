@@ -1,0 +1,28 @@
+This mod simply adds new Spiky Ball variants.
+
+These include:
+ - Sticky Spiky Ball
+ - Poisoned Spiky Ball
+ - Bouncy Spiky Ball
+ - Spiky Ichor Ball
+ - Spiky Crystal Ball
+ - Spiky Cursed Ball
+ - Spiky Venom Ball
+ - Spiky Beetle Ball
+
+They can all be crafted on a workbech with the required materials.
+
+Changelog
+---------------
+V1.0.1
+Adjusted Damage Values for Hardmode variants:
+ - Spiky Ichor Ball: 24 -> 28
+ - Spiky Crystal Ball: 24 -> 36
+ - Spiky Cursed Ball: 24 -> 32
+ - Spiky Venom Ball: 24 -> 32
+ - Spiky Beetle Ball: 36 -> 45
+
+Adjusted sell prices all around.
+
+V1.0
+Initial Version
